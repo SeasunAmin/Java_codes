@@ -1,0 +1,1 @@
+basicjava.Ternary_Operator
